@@ -1,6 +1,4 @@
 import random
-import warnings
-warnings.filterwarnings("ignore")
 
 words = [
     "star", 
